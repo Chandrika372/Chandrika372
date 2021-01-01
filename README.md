@@ -12,7 +12,7 @@
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... <a href="#"><img align="center" alt="Chandrika372 | Mail" width="22px" src="https://1.bp.blogspot.com/-C4uAef4pGp8/X-706UYbztI/AAAAAAAAAW4/9edeaPdo42wRy3C_GHWlnZQbhSnH4TXYgCLcBGAsYHQ/s128/apple-mail.png"/>acharjeechandrika372@gmail.com</a>
 - 😄 Pronouns: ... She/Her
-- ⚡ Fun fact: ... I love Psychological Thrillers
+- ⚡ Fun fact: ... I love Psychological Thrillers:mag_right:
 
 ### Connect with me:
 <a href="https://www.linkedin.com/in/chandrika-acharjee-2563a41ab">
