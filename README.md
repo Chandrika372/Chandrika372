@@ -38,14 +38,14 @@
 <br></br>
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Chandrika372)](https://github.com/anuraghazra/github-readme-stats)
 <br></br>
-<img align="left" alt="Dog" width="" src="https://1.bp.blogspot.com/-lbGF7-vEV24/X-9WiV6EXwI/AAAAAAAAAY8/xDm0p_buYbounfXPg6Tc5pmVLxpcAmoMACLcBGAsYHQ/s220/tenor.gif" />
+<img align="left" alt="Dog" width="" src="https://1.bp.blogspot.com/-lbGF7-vEV24/X-9WiV6EXwI/AAAAAAAAAY8/xDm0p_buYbounfXPg6Tc5pmVLxpcAmoMACLcBGAsYHQ/s220/tenor.gif" class="responsive" />
 <img align="right" alt="Dog" width="" src="https://1.bp.blogspot.com/-lbGF7-vEV24/X-9WiV6EXwI/AAAAAAAAAY8/xDm0p_buYbounfXPg6Tc5pmVLxpcAmoMACLcBGAsYHQ/s220/tenor.gif" />
-<p align="center">
+<p align="center" class="responsive">
   <b>Visitor count</b>
   <br>
   <br></br>
   <br></br>
- <img src="https://profile-counter.glitch.me/Chandrika372/count.svg" />
+ <img src="https://profile-counter.glitch.me/Chandrika372/count.svg" class="responsive" />
  </p>
   </br>
   </br>
