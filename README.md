@@ -14,10 +14,7 @@
 - 📫 How to reach me: ... <a href="#"><img align="center" alt="Chandrika372 | Mail" width="22px" src="https://1.bp.blogspot.com/-C4uAef4pGp8/X-706UYbztI/AAAAAAAAAW4/9edeaPdo42wRy3C_GHWlnZQbhSnH4TXYgCLcBGAsYHQ/s128/apple-mail.png"/>acharjeechandrika372@gmail.com</a>
 - 😄 Pronouns: ... She/Her
 - ⚡ Fun fact: ... I love Psychological Thrillers:mag_right:
-<p align="center"><b>Visitor count</b></p>
-<p align="center">
- <img src="https://profile-counter.glitch.me/Chandrika372/count.svg" />
-</p> 
+
 ### Connect with me:
 <a href="https://www.linkedin.com/in/chandrika-acharjee-2563a41ab">
 <img align="left" alt="Chandrika372 | Linkedin" width="35px" src="https://1.bp.blogspot.com/-iYuS1nl62ko/X-7x2ABOIYI/AAAAAAAAAWo/N9zLQslrh1AOeQ1X8b6waBt5IfXoP4iQQCLcBGAsYHQ/s200/linkedin.png"/>
@@ -38,7 +35,10 @@
 <br></br>
 ### Publications
 <a href="https://link.springer.com/chapter/10.1007/978-3-030-66763-4_10">Machine Learning Approaches for Rapid Pothole Detection fron 2D images(Springer CCIS, Volume 1358)</a>
-
+<p align="left"><b>Visitor count</b></p>
+<p align="left">
+ <img src="https://profile-counter.glitch.me/Chandrika372/count.svg" />
+</p> 
 <br></br>
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Chandrika372)](https://github.com/anuraghazra/github-readme-stats)
 
