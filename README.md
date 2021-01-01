@@ -44,8 +44,6 @@
 
  
  <b>Visitor count</b>
- 
-  <br></br>
 <p align="center">
  <img src="https://profile-counter.glitch.me/Chandrika372/count.svg" />
 </p> 
