@@ -1,6 +1,7 @@
 ### Hola Amigos 👋, myself Chandrika Acharjee
 
-## Connect with me:[Linkedin Profile](https://www.linkedin.com/in/chandrika-acharjee-2563a41ab)
+#### Connect with me:
+[Linkedin Profile](https://www.linkedin.com/in/chandrika-acharjee-2563a41ab)
 
 
 
