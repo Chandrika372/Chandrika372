@@ -4,10 +4,7 @@
 
 
 #### Deep Learning Enthusiast and passionate about Coding:computer:
- <p align="center"><b>Visitor count</b></p>
-<p align="center">
- <img src="https://profile-counter.glitch.me/Chandrika372/count.svg" />
-</p> 
+ 
 - :woman_student: I'm a sophomore Computer Science Engineering student at <b>National Institute of Technology Agartala</b>
 - 🔭 I’m currently working on ... Daily Coding & Web Development
 - 🌱 I’m currently learning ... Machine Learning, Data Structures, and Data Science
@@ -17,7 +14,10 @@
 - 📫 How to reach me: ... <a href="#"><img align="center" alt="Chandrika372 | Mail" width="22px" src="https://1.bp.blogspot.com/-C4uAef4pGp8/X-706UYbztI/AAAAAAAAAW4/9edeaPdo42wRy3C_GHWlnZQbhSnH4TXYgCLcBGAsYHQ/s128/apple-mail.png"/>acharjeechandrika372@gmail.com</a>
 - 😄 Pronouns: ... She/Her
 - ⚡ Fun fact: ... I love Psychological Thrillers:mag_right:
-
+<p align="center"><b>Visitor count</b></p>
+<p align="center">
+ <img src="https://profile-counter.glitch.me/Chandrika372/count.svg" />
+</p> 
 ### Connect with me:
 <a href="https://www.linkedin.com/in/chandrika-acharjee-2563a41ab">
 <img align="left" alt="Chandrika372 | Linkedin" width="35px" src="https://1.bp.blogspot.com/-iYuS1nl62ko/X-7x2ABOIYI/AAAAAAAAAWo/N9zLQslrh1AOeQ1X8b6waBt5IfXoP4iQQCLcBGAsYHQ/s200/linkedin.png"/>
