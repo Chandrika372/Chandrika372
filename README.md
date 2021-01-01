@@ -1,6 +1,6 @@
 ### Hola Amigos 👋, myself Chandrika Acharjee
 <img align="right" alt="GIF" src="https://1.bp.blogspot.com/-EMhCASiHMO0/X-7wsUSjUcI/AAAAAAAAAWg/gGAouWNdXHgS2M7awq7Mn0j7rkn25O4igCLcBGAsYHQ/s400/Informatics-Life-66743.gif" width="500" height="320" />
-
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Chandrika372)](https://github.com/anuraghazra/github-readme-stats)
 
 #### Deep Learning Enthusiast and passionate about Coding
 
