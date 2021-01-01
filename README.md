@@ -4,7 +4,7 @@
 
 #### Deep Learning Enthusiast and passionate about Coding
 
-- :woman: I'm a sophomore Computer Science Engineering student at National Institute of Technology Agartala
+- :curly_haired_woman: I'm a sophomore Computer Science Engineering student at National Institute of Technology Agartala
 - 🔭 I’m currently working on ... Daily Coding & Web Development
 - 🌱 I’m currently learning ... Machine Learning, Data Structures, and Data Science
 - 👯 I’m looking to collaborate on ... Open Source and CNN Projects
