@@ -9,11 +9,12 @@
 - 👯 I’m looking to collaborate on ... Open Source and CNN Projects
 - 🤔 I’m looking for help with ... Android Development
 - 💬 Ask me about ... Anything
-- 📫 How to reach me: ... [Email](acharjeechandrika372@gmail.com)
+- 📫 How to reach me: ... <a href="#"><img align="center" alt="Chandrika372 | Mail" width="22px" src="https://1.bp.blogspot.com/-C4uAef4pGp8/X-706UYbztI/AAAAAAAAAW4/9edeaPdo42wRy3C_GHWlnZQbhSnH4TXYgCLcBGAsYHQ/s128/apple-mail.png"/>acharjeechandrika372@gmail.com</a>
 - 😄 Pronouns: ... She/Her
 - ⚡ Fun fact: ... I love Psychological Thrillers
 
 #### Connect with me:
 <a href="https://www.linkedin.com/in/chandrika-acharjee-2563a41ab">
-<img align="left" alt="Chandrika372 | Linkedin" width="22px" src="https://1.bp.blogspot.com/-iYuS1nl62ko/X-7x2ABOIYI/AAAAAAAAAWo/N9zLQslrh1AOeQ1X8b6waBt5IfXoP4iQQCLcBGAsYHQ/s200/linkedin.png"/>
+<img align="left" alt="Chandrika372 | Linkedin" width="25px" src="https://1.bp.blogspot.com/-iYuS1nl62ko/X-7x2ABOIYI/AAAAAAAAAWo/N9zLQslrh1AOeQ1X8b6waBt5IfXoP4iQQCLcBGAsYHQ/s200/linkedin.png"/>
 </a>
+
