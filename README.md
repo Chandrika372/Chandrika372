@@ -17,7 +17,7 @@
 <img align="left" alt="Chandrika372 | Linkedin" width="35px" src="https://1.bp.blogspot.com/-iYuS1nl62ko/X-7x2ABOIYI/AAAAAAAAAWo/N9zLQslrh1AOeQ1X8b6waBt5IfXoP4iQQCLcBGAsYHQ/s200/linkedin.png"/>
 </a>
 
-#### Languages and Tools
+### Languages and Tools:
 
 <img align="left" alt="" width="29px" src="https://1.bp.blogspot.com/-dTN0RtMKEgw/X-730dEbkKI/AAAAAAAAAXE/zEUabbgwqB4n3Ji-B-w1rpk-e4UgNNziACLcBGAsYHQ/s96/github.png" style="display: block; padding: 1em 0; text-align: center; clear: left; float: left"/>
 <img align="left" alt="" width="29px" src=""/>
