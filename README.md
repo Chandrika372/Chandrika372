@@ -1,9 +1,4 @@
-<style>
- .red
- {
- color: red
- }
-</style>
+
 ### Hola Amigos 👋, myself Chandrika Acharjee:seedling::seedling::seedling::seedling::seedling:
 <img align="right" alt="GIF" src="https://1.bp.blogspot.com/-EMhCASiHMO0/X-7wsUSjUcI/AAAAAAAAAWg/gGAouWNdXHgS2M7awq7Mn0j7rkn25O4igCLcBGAsYHQ/s400/Informatics-Life-66743.gif" width="500" height="320" />
 
@@ -48,7 +43,7 @@
 <img align="right" alt="Anime girl" width="" src="https://1.bp.blogspot.com/-lbGF7-vEV24/X-9WiV6EXwI/AAAAAAAAAY8/xDm0p_buYbounfXPg6Tc5pmVLxpcAmoMACLcBGAsYHQ/s220/tenor.gif" />
 
  
-  <p class="red"><b>Visitor count</b></p>
+ <b font-size:5 em>Visitor count</b>
  
   <br></br>
 <p align="center">
