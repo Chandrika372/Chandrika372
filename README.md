@@ -20,12 +20,13 @@
 <br></br>
 
 ### Languages and Tools:
-
-<img align="left" alt="" width="29px" src="https://1.bp.blogspot.com/-dTN0RtMKEgw/X-730dEbkKI/AAAAAAAAAXE/zEUabbgwqB4n3Ji-B-w1rpk-e4UgNNziACLcBGAsYHQ/s96/github.png" style="display: block; padding: 1em 0; text-align: center; clear: left; float: left"/>
+<img align="left" alt="C language" width="29px" src="https://1.bp.blogspot.com/--md5WEYkSOw/X-77ELvlv_I/AAAAAAAAAXQ/-V6xJuT_w4gqmwMXuk7OYH6CKYDpiic4wCLcBGAsYHQ/s96/c-programming.png"/>
 <img align="left" alt="" width="29px" src=""/>
-<img align="left" alt="" width="29px" src=""/>
-<img align="left" alt="" width="29px" src=""/>
-<img align="left" alt="" width="29px" src=""/>
+<img align="left" alt="github" width="29px" src="https://1.bp.blogspot.com/-dTN0RtMKEgw/X-730dEbkKI/AAAAAAAAAXE/zEUabbgwqB4n3Ji-B-w1rpk-e4UgNNziACLcBGAsYHQ/s96/github.png" style="display: block; padding: 1em 0; text-align: center; clear: left; float: left"/>
+<img align="left" alt="html5" width="29px" src=""/>
+<img align="left" alt="CSS" width="29px" src=""/>
+<img align="left" alt="JavaScript" width="29px" src=""/>
+<img align="left" alt="Python" width="29px" src=""/>
 <img align="left" alt="" width="29px" src=""/>
 <img align="left" alt="" width="29px" src=""/>
 
