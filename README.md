@@ -1,6 +1,6 @@
 ### Hola Amigos 👋, myself Chandrika Acharjee
 <img align="right" alt="GIF" src="https://1.bp.blogspot.com/-EMhCASiHMO0/X-7wsUSjUcI/AAAAAAAAAWg/gGAouWNdXHgS2M7awq7Mn0j7rkn25O4igCLcBGAsYHQ/s400/Informatics-Life-66743.gif" width="500" height="320" />
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Chandrika372)](https://github.com/anuraghazra/github-readme-stats)
+
 
 #### Deep Learning Enthusiast and passionate about Coding
 
@@ -31,3 +31,6 @@
 <img align="left" alt="Git" width="59px" src="https://1.bp.blogspot.com/-DgHDNPZno7E/X-8CtadhFrI/AAAAAAAAAYQ/njNbMHVU8hkDhbdqPGPQwuyGtsbFkAHNACLcBGAsYHQ/s588/git.png"/>
 <img align="left" alt="Spyder" width="29px" src="https://1.bp.blogspot.com/-_sKIQ6vSfhU/X-8HsMZsV3I/AAAAAAAAAYw/rDYcUOZXlpUZn-bd2Sg5-Q19BxUh68RMgCLcBGAsYHQ/s96/spyder-ide.png"/>
 
+
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Chandrika372)](https://github.com/anuraghazra/github-readme-stats)
