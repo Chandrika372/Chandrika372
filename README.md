@@ -4,7 +4,14 @@
 
 
 #### Deep Learning Enthusiast and passionate about Coding:computer:
-
+<br></br>
+<!--<img align="left" alt="Anime girl" width="" src="https://1.bp.blogspot.com/-lbGF7-vEV24/X-9WiV6EXwI/AAAAAAAAAY8/xDm0p_buYbounfXPg6Tc5pmVLxpcAmoMACLcBGAsYHQ/s220/tenor.gif" />-->
+<!--<img align="right" alt="Anime girl" width="" src="https://1.bp.blogspot.com/-lbGF7-vEV24/X-9WiV6EXwI/AAAAAAAAAY8/xDm0p_buYbounfXPg6Tc5pmVLxpcAmoMACLcBGAsYHQ/s220/tenor.gif" />-->
+ <p align="center"><b>Visitor count</b></p>
+<p align="center">
+ <img src="https://profile-counter.glitch.me/Chandrika372/count.svg" />
+</p> 
+<br></br>
 - :woman_student: I'm a sophomore Computer Science Engineering student at <b>National Institute of Technology Agartala</b>
 - 🔭 I’m currently working on ... Daily Coding & Web Development
 - 🌱 I’m currently learning ... Machine Learning, Data Structures, and Data Science
@@ -38,12 +45,4 @@
 
 <br></br>
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Chandrika372)](https://github.com/anuraghazra/github-readme-stats)
-<br></br>
-<!--<img align="left" alt="Anime girl" width="" src="https://1.bp.blogspot.com/-lbGF7-vEV24/X-9WiV6EXwI/AAAAAAAAAY8/xDm0p_buYbounfXPg6Tc5pmVLxpcAmoMACLcBGAsYHQ/s220/tenor.gif" />-->
-<!--<img align="right" alt="Anime girl" width="" src="https://1.bp.blogspot.com/-lbGF7-vEV24/X-9WiV6EXwI/AAAAAAAAAY8/xDm0p_buYbounfXPg6Tc5pmVLxpcAmoMACLcBGAsYHQ/s220/tenor.gif" />-->
- <p align="center"><b>Visitor count</b></p>
-<p align="center">
- <img src="https://profile-counter.glitch.me/Chandrika372/count.svg" />
-</p> 
-  </br>
-  </br>
+
