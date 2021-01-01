@@ -42,7 +42,7 @@
 <img align="right" alt="Dog" width="" src="https://github.com/hrittikhere/hrittikhere/blob/master/tenor.gif" />
 <p align="center">
   Visitor count<br>
- <img src="https://profile.counter.glitch.me/Chandrika372/count.svg" />
+ <img src="https://profile-counter.glitch.me/Chandrika372/count.svg" />
  </p>
   </br>
   </br>
