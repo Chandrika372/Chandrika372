@@ -13,7 +13,8 @@
 - 😄 Pronouns: ... She/Her
 - ⚡ Fun fact: ... I love Psychological Thrillers
 
-#### Connect with me:<a href="https://www.linkedin.com/in/chandrika-acharjee-2563a41ab">
+#### Connect with me:
+<a href="https://www.linkedin.com/in/chandrika-acharjee-2563a41ab">
 <img align="left" alt="Chandrika372 | Linkedin" width="35px" src="https://1.bp.blogspot.com/-iYuS1nl62ko/X-7x2ABOIYI/AAAAAAAAAWo/N9zLQslrh1AOeQ1X8b6waBt5IfXoP4iQQCLcBGAsYHQ/s200/linkedin.png"/>
 </a>
 
