@@ -1,6 +1,5 @@
 ### Hola Amigos 👋, myself Chandrika Acharjee
-<p></p><div class="separator" style="clear: both; text-align: right;"><a href="https://1.bp.blogspot.com/-ihR_1GurbSQ/X-7svZfVGLI/AAAAAAAAAWU/Y5uOHb3OsoIi2eMxwnzMfbJ3bDjbgv9tgCLcBGAsYHQ/s480/deskworking.gif" imageanchor="1" style="margin-right: 1em; margin-right: 1em;"><img border="0" data-original-height="320" data-original-width="500" src="https://1.bp.blogspot.com/-ihR_1GurbSQ/X-7svZfVGLI/AAAAAAAAAWU/Y5uOHb3OsoIi2eMxwnzMfbJ3bDjbgv9tgCLcBGAsYHQ/s320/deskworking.gif" width="320" /></a></div><br />&nbsp;<p></p>
-
+<img align="right" alt="GIF" src="https://1.bp.blogspot.com/-ihR_1GurbSQ/X-7svZfVGLI/AAAAAAAAAWU/Y5uOHb3OsoIi2eMxwnzMfbJ3bDjbgv9tgCLcBGAsYHQ/s480/deskworking.gif" width="500" height="320" />
 
 #### Deep Learning Enthusiast and passionate about Coding
 
