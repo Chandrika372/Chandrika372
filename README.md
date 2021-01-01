@@ -26,7 +26,7 @@
 <img align="left" alt="github" width="29px" src="https://1.bp.blogspot.com/-dTN0RtMKEgw/X-730dEbkKI/AAAAAAAAAXE/zEUabbgwqB4n3Ji-B-w1rpk-e4UgNNziACLcBGAsYHQ/s96/github.png" style="display: block; padding: 1em 0; text-align: center; clear: left; float: left"/>
 <img align="left" alt="html5" width="29px" src="https://1.bp.blogspot.com/-0Y8s4v-VUYM/X-8BCbito1I/AAAAAAAAAYE/VL_djR_ALwoT_N8-qsPpSUf6cv9SMaVJgCLcBGAsYHQ/s100/html-5.png"/>
 <img align="left" alt="CSS" width="29px" src="https://1.bp.blogspot.com/-s67RbNuau_o/X-7-gZCIx5I/AAAAAAAAAXs/qm43R-mOCAsZK-nD-BoTcjZMGPll5dL1gCLcBGAsYHQ/s96/css3.png" style="display: block; padding: 1em 0; text-align: center;"/>
-<img align="left" alt="JavaScript" width="49px" src="https://1.bp.blogspot.com/-IW4vSmO5Ji8/X-8Fp3qsqXI/AAAAAAAAAYc/tFtk4xk2mlwV3f7Rc-HYZCyz-xOt9-HogCLcBGAsYHQ/s280/javascript-web-technology-shield-site-260nw-1186054663.webp"/>
+<img align="left" alt="JavaScript" width="29px" src="https://1.bp.blogspot.com/-uZ_R3aCDCCc/X-8HMOZIRtI/AAAAAAAAAYo/iaTFojnoa5IzAVAtQs3rio_eMqxg3jC1gCLcBGAsYHQ/s96/javascript.png"/>
 <img align="left" alt="Git" width="59px" src="https://1.bp.blogspot.com/-DgHDNPZno7E/X-8CtadhFrI/AAAAAAAAAYQ/njNbMHVU8hkDhbdqPGPQwuyGtsbFkAHNACLcBGAsYHQ/s588/git.png"/>
 <img align="left" alt="" width="29px" src=""/>
 
