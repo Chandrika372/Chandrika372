@@ -40,10 +40,11 @@
 <br></br>
 <img align="left" alt="Anime girl" width="" src="https://1.bp.blogspot.com/-lbGF7-vEV24/X-9WiV6EXwI/AAAAAAAAAY8/xDm0p_buYbounfXPg6Tc5pmVLxpcAmoMACLcBGAsYHQ/s220/tenor.gif" />
 <img align="right" alt="Anime girl" width="" src="https://1.bp.blogspot.com/-lbGF7-vEV24/X-9WiV6EXwI/AAAAAAAAAY8/xDm0p_buYbounfXPg6Tc5pmVLxpcAmoMACLcBGAsYHQ/s220/tenor.gif" />
-<p align="center">
+
   
   <h1 align="center"><b>Visitor count</b></h1>
   <br></br>
+  <p align="center>
  <img src="https://profile-counter.glitch.me/Chandrika372/count.svg" class="alldevices" />
  </p>
   </br>
