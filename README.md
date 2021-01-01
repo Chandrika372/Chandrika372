@@ -2,7 +2,7 @@
 <img align="right" alt="GIF" src="https://1.bp.blogspot.com/-EMhCASiHMO0/X-7wsUSjUcI/AAAAAAAAAWg/gGAouWNdXHgS2M7awq7Mn0j7rkn25O4igCLcBGAsYHQ/s400/Informatics-Life-66743.gif" width="500" height="320" />
 
 
-#### Deep Learning Enthusiast and passionate about Coding
+#### Deep Learning Enthusiast and passionate about Coding:computer:
 
 - :woman_student: I'm a sophomore Computer Science Engineering student at <b>National Institute of Technology Agartala</b>
 - 🔭 I’m currently working on ... Daily Coding & Web Development
