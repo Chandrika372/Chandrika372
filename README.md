@@ -37,9 +37,10 @@
 <a href="https://link.springer.com/chapter/10.1007/978-3-030-66763-4_10">Machine Learning Approaches for Rapid Pothole Detection fron 2D images(Springer CCIS, Volume 1358)</a>
 
 <br></br>
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Chandrika372)](https://github.com/anuraghazra/github-readme-stats)
+### MY GIT STATS
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Chandrika372&show_icons=true&theme=radical&tite_color=BE2DE2&icon_color=BE2DE2)](https://github.com/anuraghazra/github-readme-stats)
 
-## MY TOP LANGUAGES
+### MY TOP LANGUAGES
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chandrika372&theme=radical&title_color=BE2DE2&text_color=fff)
 <p align="center"><b>Visitor count</b></p>
 <p align="center">
