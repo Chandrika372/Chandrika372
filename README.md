@@ -32,5 +32,8 @@
 <img align="left" alt="Spyder" width="29px" src="https://1.bp.blogspot.com/-_sKIQ6vSfhU/X-8HsMZsV3I/AAAAAAAAAYw/rDYcUOZXlpUZn-bd2Sg5-Q19BxUh68RMgCLcBGAsYHQ/s96/spyder-ide.png"/>
 
 <br></br>
+#### Publications
+<a href="https://link.springer.com/chapter/10.1007/978-3-030-66763-4_10">Machine Learning Approaches for Rapid Pothole Detection fron 2D images</a>
 
+<br></br>
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Chandrika372)](https://github.com/anuraghazra/github-readme-stats)
