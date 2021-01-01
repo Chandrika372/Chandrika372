@@ -39,6 +39,8 @@
 <br></br>
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Chandrika372)](https://github.com/anuraghazra/github-readme-stats)
 
+## MY TOP LANGUAGES
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chandrika372&theme=radical&title_color=BE2DE2&text_color=fff)
 <p align="center"><b>Visitor count</b></p>
 <p align="center">
  <img src="https://profile-counter.glitch.me/Chandrika372/count.svg" />
