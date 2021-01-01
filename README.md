@@ -27,6 +27,6 @@
 <img align="left" alt="html5" width="29px" src="https://1.bp.blogspot.com/-0Y8s4v-VUYM/X-8BCbito1I/AAAAAAAAAYE/VL_djR_ALwoT_N8-qsPpSUf6cv9SMaVJgCLcBGAsYHQ/s100/html-5.png"/>
 <img align="left" alt="CSS" width="29px" src="https://1.bp.blogspot.com/-s67RbNuau_o/X-7-gZCIx5I/AAAAAAAAAXs/qm43R-mOCAsZK-nD-BoTcjZMGPll5dL1gCLcBGAsYHQ/s96/css3.png" style="display: block; padding: 1em 0; text-align: center;"/>
 <img align="left" alt="JavaScript" width="29px" src="https://1.bp.blogspot.com/-Uu1XrR7XeCI/X-7_UGcR0bI/AAAAAAAAAX4/KFXB-n9bSuQLSkFvqzSmU_oTFTty-5PiACLcBGAsYHQ/s96/javascript-logo-1.png" style="display: block; padding: 1em 0; text-align: center;"/>
-<img align="left" alt="Git" width="29px" src="https://1.bp.blogspot.com/-DgHDNPZno7E/X-8CtadhFrI/AAAAAAAAAYQ/njNbMHVU8hkDhbdqPGPQwuyGtsbFkAHNACLcBGAsYHQ/s588/git.png"/>
+<img align="left" alt="Git" width="45px" src="https://1.bp.blogspot.com/-DgHDNPZno7E/X-8CtadhFrI/AAAAAAAAAYQ/njNbMHVU8hkDhbdqPGPQwuyGtsbFkAHNACLcBGAsYHQ/s588/git.png"/>
 <img align="left" alt="" width="29px" src=""/>
 
