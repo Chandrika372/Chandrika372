@@ -34,18 +34,28 @@
 <br></br>
 ### Publications
 <a href="https://link.springer.com/chapter/10.1007/978-3-030-66763-4_10">Machine Learning Approaches for Rapid Pothole Detection fron 2D images(Springer CCIS, Volume 1358)</a>
-
+<style>
+  img.alldevices
+  {
+  margin:0 auto;
+  height: auto;
+  max-width: 100%;
+  border:none;
+  display: block;
+  padding: 5px 0;
+  }
+  </style>
 <br></br>
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Chandrika372)](https://github.com/anuraghazra/github-readme-stats)
 <br></br>
-<img align="left" alt="Dog" width="" src="https://1.bp.blogspot.com/-lbGF7-vEV24/X-9WiV6EXwI/AAAAAAAAAY8/xDm0p_buYbounfXPg6Tc5pmVLxpcAmoMACLcBGAsYHQ/s220/tenor.gif" class="responsive" />
-<img align="right" alt="Dog" width="" src="https://1.bp.blogspot.com/-lbGF7-vEV24/X-9WiV6EXwI/AAAAAAAAAY8/xDm0p_buYbounfXPg6Tc5pmVLxpcAmoMACLcBGAsYHQ/s220/tenor.gif" />
-<p align="center" class="responsive">
+<img align="left" alt="Anime girl" width="" src="https://1.bp.blogspot.com/-lbGF7-vEV24/X-9WiV6EXwI/AAAAAAAAAY8/xDm0p_buYbounfXPg6Tc5pmVLxpcAmoMACLcBGAsYHQ/s220/tenor.gif" class="alldevices" />
+<img align="right" alt="Anime girl" width="" src="https://1.bp.blogspot.com/-lbGF7-vEV24/X-9WiV6EXwI/AAAAAAAAAY8/xDm0p_buYbounfXPg6Tc5pmVLxpcAmoMACLcBGAsYHQ/s220/tenor.gif" />
+<p align="center" class="alldevices" />
   <b>Visitor count</b>
   <br>
   <br></br>
   <br></br>
- <img src="https://profile-counter.glitch.me/Chandrika372/count.svg" class="responsive" />
+ <img src="https://profile-counter.glitch.me/Chandrika372/count.svg" class="alldevices" />
  </p>
   </br>
   </br>
