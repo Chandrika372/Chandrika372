@@ -20,13 +20,13 @@
 <br></br>
 
 ### Languages and Tools:
-<img align="left" alt="C language" width="29px" src="https://1.bp.blogspot.com/--md5WEYkSOw/X-77ELvlv_I/AAAAAAAAAXQ/-V6xJuT_w4gqmwMXuk7OYH6CKYDpiic4wCLcBGAsYHQ/s96/c-programming.png"/>
-<img align="left" alt="C++" width="29px" src="https://1.bp.blogspot.com/-2rnTjThn9hQ/X-77uILLRsI/AAAAAAAAAXY/Kx9qrOBa15YwSZ-T3R1ZHlRxEPYnRfLFwCLcBGAsYHQ/s100/c-plus-plus-logo.png"/>
+<img align="left" alt="C language" width="29px" src="https://1.bp.blogspot.com/--md5WEYkSOw/X-77ELvlv_I/AAAAAAAAAXQ/-V6xJuT_w4gqmwMXuk7OYH6CKYDpiic4wCLcBGAsYHQ/s96/c-programming.png" />
+<img align="left" alt="C++" width="29px" src="https://1.bp.blogspot.com/-2rnTjThn9hQ/X-77uILLRsI/AAAAAAAAAXY/Kx9qrOBa15YwSZ-T3R1ZHlRxEPYnRfLFwCLcBGAsYHQ/s100/c-plus-plus-logo.png" />
+<img align="left" alt="Python" width="29px" src="https://1.bp.blogspot.com/-C31QAEe8sG4/X-79x_XyvYI/AAAAAAAAAXk/K2LUVxeUnjorLcNAnjA9Ro-WSsP-X3oOQCLcBGAsYHQ/s96/python.png" style="display: block; padding: 1em 0; text-align: center;"/>
 <img align="left" alt="github" width="29px" src="https://1.bp.blogspot.com/-dTN0RtMKEgw/X-730dEbkKI/AAAAAAAAAXE/zEUabbgwqB4n3Ji-B-w1rpk-e4UgNNziACLcBGAsYHQ/s96/github.png" style="display: block; padding: 1em 0; text-align: center; clear: left; float: left"/>
-<img align="left" alt="html5" width="29px" src=""/>
-<img align="left" alt="CSS" width="29px" src=""/>
-<img align="left" alt="JavaScript" width="29px" src=""/>
-<img align="left" alt="Python" width="29px" src=""/>
-<img align="left" alt="" width="29px" src=""/>
+<img align="left" alt="html5" width="29px" src="https://1.bp.blogspot.com/-0Y8s4v-VUYM/X-8BCbito1I/AAAAAAAAAYE/VL_djR_ALwoT_N8-qsPpSUf6cv9SMaVJgCLcBGAsYHQ/s100/html-5.png"/>
+<img align="left" alt="CSS" width="29px" src="https://1.bp.blogspot.com/-s67RbNuau_o/X-7-gZCIx5I/AAAAAAAAAXs/qm43R-mOCAsZK-nD-BoTcjZMGPll5dL1gCLcBGAsYHQ/s96/css3.png" style="display: block; padding: 1em 0; text-align: center;"/>
+<img align="left" alt="JavaScript" width="29px" src="https://1.bp.blogspot.com/-Uu1XrR7XeCI/X-7_UGcR0bI/AAAAAAAAAX4/KFXB-n9bSuQLSkFvqzSmU_oTFTty-5PiACLcBGAsYHQ/s96/javascript-logo-1.png" style="display: block; padding: 1em 0; text-align: center;"/>
+<img align="left" alt="Git" width="29px" src="https://1.bp.blogspot.com/-DgHDNPZno7E/X-8CtadhFrI/AAAAAAAAAYQ/njNbMHVU8hkDhbdqPGPQwuyGtsbFkAHNACLcBGAsYHQ/s588/git.png"/>
 <img align="left" alt="" width="29px" src=""/>
 
