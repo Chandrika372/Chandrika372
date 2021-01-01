@@ -44,8 +44,8 @@
   
   <h1 align="center"><b>Visitor count</b></h1>
   <br></br>
-  <p align="center>
- <img src="https://profile-counter.glitch.me/Chandrika372/count.svg" class="alldevices" />
- </p>
+
+ <img align="center" alt="visitor count" src="https://profile-counter.glitch.me/Chandrika372/count.svg" class="alldevices" />
+ 
   </br>
   </br>
