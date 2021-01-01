@@ -28,5 +28,5 @@
 <img align="left" alt="CSS" width="29px" src="https://1.bp.blogspot.com/-s67RbNuau_o/X-7-gZCIx5I/AAAAAAAAAXs/qm43R-mOCAsZK-nD-BoTcjZMGPll5dL1gCLcBGAsYHQ/s96/css3.png" style="display: block; padding: 1em 0; text-align: center;"/>
 <img align="left" alt="JavaScript" width="29px" src="https://1.bp.blogspot.com/-uZ_R3aCDCCc/X-8HMOZIRtI/AAAAAAAAAYo/iaTFojnoa5IzAVAtQs3rio_eMqxg3jC1gCLcBGAsYHQ/s96/javascript.png"/>
 <img align="left" alt="Git" width="59px" src="https://1.bp.blogspot.com/-DgHDNPZno7E/X-8CtadhFrI/AAAAAAAAAYQ/njNbMHVU8hkDhbdqPGPQwuyGtsbFkAHNACLcBGAsYHQ/s588/git.png"/>
-<img align="left" alt="" width="29px" src=""/>
+<img align="left" alt="Spyder" width="29px" src="https://1.bp.blogspot.com/-_sKIQ6vSfhU/X-8HsMZsV3I/AAAAAAAAAYw/rDYcUOZXlpUZn-bd2Sg5-Q19BxUh68RMgCLcBGAsYHQ/s96/spyder-ide.png"/>
 
