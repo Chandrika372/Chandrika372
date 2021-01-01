@@ -1,4 +1,4 @@
-### Hola Amigos 👋, myself Chandrika Acharjee
+### Hola Amigos 👋, myself Chandrika Acharjee:seedling::seedling::seedling::seedling::seedling:
 <img align="right" alt="GIF" src="https://1.bp.blogspot.com/-EMhCASiHMO0/X-7wsUSjUcI/AAAAAAAAAWg/gGAouWNdXHgS2M7awq7Mn0j7rkn25O4igCLcBGAsYHQ/s400/Informatics-Life-66743.gif" width="500" height="320" />
 
 
