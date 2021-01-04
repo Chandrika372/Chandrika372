@@ -33,6 +33,11 @@
 <img align="left" alt="Spyder" width="29px" src="https://1.bp.blogspot.com/-_sKIQ6vSfhU/X-8HsMZsV3I/AAAAAAAAAYw/rDYcUOZXlpUZn-bd2Sg5-Q19BxUh68RMgCLcBGAsYHQ/s96/spyder-ide.png"/>
 
 <br></br>
+###Experience
+HTML Intern <b>@ClearExam<b>
+<p><a href="https://drive.google.com/file/d/1JnU9oZUt7teFYKBohtAGeUGKxFAz1wPU/view?usp=drivesdk">Letter Of Recommendation</a></p>
+<p><a href="https://drive.google.com/file/d/1JxX8q9TxaidcmJiv1A76lXe-3G_JkV8V/view?usp=drivesdk">Badge of Appreciation</a></p>
+<br></br>
 ### Publications
 <a href="https://link.springer.com/chapter/10.1007/978-3-030-66763-4_10">Machine Learning Approaches for Rapid Pothole Detection fron 2D images(Springer CCIS, Volume 1358)</a>
 
