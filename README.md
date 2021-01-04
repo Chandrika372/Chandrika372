@@ -20,7 +20,6 @@
 <img align="left" alt="Chandrika372 | Linkedin" width="35px" src="https://1.bp.blogspot.com/-iYuS1nl62ko/X-7x2ABOIYI/AAAAAAAAAWo/N9zLQslrh1AOeQ1X8b6waBt5IfXoP4iQQCLcBGAsYHQ/s200/linkedin.png"/>
 </a>
 <br></br>
-
 ### Languages and Tools:
 <img align="left" alt="C language" width="29px" src="https://1.bp.blogspot.com/--md5WEYkSOw/X-77ELvlv_I/AAAAAAAAAXQ/-V6xJuT_w4gqmwMXuk7OYH6CKYDpiic4wCLcBGAsYHQ/s96/c-programming.png" />
 <img align="left" alt="C++" width="29px" src="https://1.bp.blogspot.com/-2rnTjThn9hQ/X-77uILLRsI/AAAAAAAAAXY/Kx9qrOBa15YwSZ-T3R1ZHlRxEPYnRfLFwCLcBGAsYHQ/s100/c-plus-plus-logo.png" />
@@ -39,7 +38,6 @@ HTML Designer Intern at <b>ClearExam</b> (16/09/2020-16/11/2020)
 <p><a href="https://drive.google.com/file/d/1JnU9oZUt7teFYKBohtAGeUGKxFAz1wPU/view?usp=drivesdk">Letter Of Recommendation </a></p>
 <p><a href="https://drive.google.com/file/d/1JxX8q9TxaidcmJiv1A76lXe-3G_JkV8V/view?usp=drivesdk">Badge Of Appreciation</a></p>
 <br></br>
-
 ### Publications
 <a href="https://link.springer.com/chapter/10.1007/978-3-030-66763-4_10">Machine Learning Approaches for Rapid Pothole Detection fron 2D images(Springer CCIS, Volume 1358)</a>
   
