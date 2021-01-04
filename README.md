@@ -34,7 +34,10 @@
 
 <br></br>
 ### Experience 
+HTML Designer Intern at ClearExam (16/09/2020-16/11/2020)
 <p><a href="https://drive.google.com/file/d/1JnU9oZUt7teFYKBohtAGeUGKxFAz1wPU/view?usp=drivesdk">Letter Of Recommendation </a></p>
+<br></br>
+
 ### Publications
 <a href="https://link.springer.com/chapter/10.1007/978-3-030-66763-4_10">Machine Learning Approaches for Rapid Pothole Detection fron 2D images(Springer CCIS, Volume 1358)</a>
   
