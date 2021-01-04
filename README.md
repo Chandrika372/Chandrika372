@@ -34,7 +34,7 @@
 
 <br></br>
 ###Experience
-HTML Intern <b>@ClearExam<b>
+HTML Designer Intern
 <p><a href="https://drive.google.com/file/d/1JnU9oZUt7teFYKBohtAGeUGKxFAz1wPU/view?usp=drivesdk">Letter Of Recommendation</a></p>
 <p><a href="https://drive.google.com/file/d/1JxX8q9TxaidcmJiv1A76lXe-3G_JkV8V/view?usp=drivesdk">Badge of Appreciation</a></p>
 <br></br>
