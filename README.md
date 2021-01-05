@@ -39,7 +39,8 @@
 <p><a href="https://drive.google.com/file/d/1Jxd_-xFkwpwU8dpFPTZGmnum0UUlVT2h/view?usp=drivesdk">Certificate of Internship</a></p>
 <p><a href="https://drive.google.com/file/d/1JnU9oZUt7teFYKBohtAGeUGKxFAz1wPU/view?usp=drivesdk">Letter Of Recommendation </a></p>
 <p><a href="https://drive.google.com/file/d/1JxX8q9TxaidcmJiv1A76lXe-3G_JkV8V/view?usp=drivesdk">Badge Of Appreciation</a></p>
-
+- Presented my Research Paper at the 3rd International Conference of Computation, Security and Intelligence 2020
+<p><a href="https://drive.google.com/file/d/1eyTxuRegkJhHzJFmcSphP-JfkmEPY5Cl/view?usp=drivesdk">Certificate of Participation</a></p>
 
 ### Publications
 <a href="https://link.springer.com/chapter/10.1007/978-3-030-66763-4_10">Machine Learning Approaches for Rapid Pothole Detection fron 2D images(Springer CCIS, Volume 1358)</a>
