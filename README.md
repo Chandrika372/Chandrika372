@@ -40,7 +40,7 @@
 <ul><p><a href="https://drive.google.com/file/d/1JnU9oZUt7teFYKBohtAGeUGKxFAz1wPU/view?usp=drivesdk">Letter Of Recommendation </a></p></ul>
 <ul><p><a href="https://drive.google.com/file/d/1JxX8q9TxaidcmJiv1A76lXe-3G_JkV8V/view?usp=drivesdk">Badge Of Appreciation</a></p></ul>
 
-- Presented my Research Paper at the 3rd International Conference of Computational Intelligence, Security & IoT 2020
+- Presented my Research Paper at the <b>3rd International Conference of Computational Intelligence, Security & IoT, 2020<b>
 <ul><p><a href="https://drive.google.com/file/d/1eyTxuRegkJhHzJFmcSphP-JfkmEPY5Cl/view?usp=drivesdk">Certificate of Participation</a></p></ul>
 
 ### Publications
