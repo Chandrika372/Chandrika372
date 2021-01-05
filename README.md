@@ -37,8 +37,8 @@
 ### Experience 
 - HTML Designer Intern at <b>ClearExam</b> (16/09/2020-16/11/2020)
 <ul><p><a href="https://drive.google.com/file/d/1Jxd_-xFkwpwU8dpFPTZGmnum0UUlVT2h/view?usp=drivesdk">Certificate of Internship</a></p></ul>
-<ul>p><a href="https://drive.google.com/file/d/1JnU9oZUt7teFYKBohtAGeUGKxFAz1wPU/view?usp=drivesdk">Letter Of Recommendation </a></p></ul>
-<ul>p><a href="https://drive.google.com/file/d/1JxX8q9TxaidcmJiv1A76lXe-3G_JkV8V/view?usp=drivesdk">Badge Of Appreciation</a></p></ul>
+<ul><p><a href="https://drive.google.com/file/d/1JnU9oZUt7teFYKBohtAGeUGKxFAz1wPU/view?usp=drivesdk">Letter Of Recommendation </a></p></ul>
+<ul><p><a href="https://drive.google.com/file/d/1JxX8q9TxaidcmJiv1A76lXe-3G_JkV8V/view?usp=drivesdk">Badge Of Appreciation</a></p></ul>
 
 - Presented my Research Paper at the 3rd International Conference of Computational Intelligencee, Security & IoT 2020
 <ul><p><a href="https://drive.google.com/file/d/1eyTxuRegkJhHzJFmcSphP-JfkmEPY5Cl/view?usp=drivesdk">Certificate of Participation</a></p></ul>
