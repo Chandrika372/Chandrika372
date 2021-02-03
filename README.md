@@ -44,7 +44,7 @@
 <ul><p><a href="https://drive.google.com/file/d/1eyTxuRegkJhHzJFmcSphP-JfkmEPY5Cl/view?usp=drivesdk">Certificate of Participation</a></p></ul>
 
 ### Publications
-<a href="https://link.springer.com/chapter/10.1007/978-3-030-66763-4_10">Machine Learning Approaches for Rapid Pothole Detection fron 2D images(Springer CCIS, Volume 1358)</a>
+<a href="https://link.springer.com/chapter/10.1007/978-3-030-66763-4_10">Machine Learning Approaches for Rapid Pothole Detection from 2D images(Springer CCIS, Volume 1358)</a>
   
 ### MY GIT STATS
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Chandrika372&show_icons=true&theme=radical&tite_color=BE2DE2&icon_color=BE2DE2)](https://github.com/anuraghazra/github-readme-stats)
