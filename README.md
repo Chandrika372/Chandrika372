@@ -20,7 +20,7 @@
 <a href="https://www.linkedin.com/in/chandrika-acharjee-2563a41ab">
 <img align="left" alt="Chandrika372 | Linkedin" width="35px" src="https://1.bp.blogspot.com/-iYuS1nl62ko/X-7x2ABOIYI/AAAAAAAAAWo/N9zLQslrh1AOeQ1X8b6waBt5IfXoP4iQQCLcBGAsYHQ/s200/linkedin.png"/>
 </a>
-<a href="https://https://www.codechef.com/users/codaemon1">
+<a href="https://www.codechef.com/users/codaemon1">
  <img align="left" alt="Chandrika372 | Codechef" width="35px" src="https://1.bp.blogspot.com/-jFshTbG0jdA/YKN8Q-v-22I/AAAAAAAAAk8/TX-xEQimwcUOgYAQ3msBLr98SEUkiHL7wCLcBGAsYHQ/s120/codecheficon.jpg"/>
 <br></br>
 
