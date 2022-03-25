@@ -45,8 +45,11 @@
 - Presented my Research Paper at the <b>3rd International Conference of Computational Intelligence, Security & IoT, 2020</b>
 <ul><p><a href="https://drive.google.com/file/d/1eyTxuRegkJhHzJFmcSphP-JfkmEPY5Cl/view?usp=drivesdk">Certificate of Presentation</a></p></ul>
 
-- Presented my Research Paper at the <b>3rd International Conference on Electrical and Electronics Engineering, 2022</b>
-<ul><p><a href="https://drive.google.com/file/d/1cl4yCx_oHQIbf3LkflqZb7kx4DoGpStt/view?usp=sharing">Certification of Presentation</a></p></ul>
+- Presented my Research Paper at the <b>3rd International Conference on Electrical and Electronics Engineering(ICEEE), 2022</b>
+<ul><p><a href="https://drive.google.com/file/d/1cl4yCx_oHQIbf3LkflqZb7kx4DoGpStt/view?usp=sharing">Certificate of Presentation</a></p></ul>
+
+- Presented my Research Paper at the <b>2nd International Conference on Computational Performance Evaluation(ComPE), 2021</b>
+<ul><p><a href="https://drive.google.com/file/d/1bqhuLZ_uE3zzfgsCR4PyOe2i_bVu3S2x/view?usp=sharing">Certificate of Presentation</a><p></ul>
 
 ### Publications
 <a href="https://link.springer.com/chapter/10.1007/978-3-030-66763-4_10">Machine Learning Approaches for Rapid Pothole Detection from 2D images(Springer CCIS, Volume 1358)</a>
