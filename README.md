@@ -53,6 +53,11 @@
 
 ### Publications
 <a href="https://link.springer.com/chapter/10.1007/978-3-030-66763-4_10">Machine Learning Approaches for Rapid Pothole Detection from 2D images(Springer CCIS, Volume 1358)</a>
+
+<a href="https://link.springer.com/chapter/10.1007/978-981-19-1677-9_4">Computer Vision Approach for Visibility Enhancement of Dull Images(LNEE,volume 894)</a>
+
+<a href="https://ieeexplore.ieee.org/document/9752229">YOLOv3 based Real Time Social Distance Violation Detection in Public Places</a>
+
   
 ### MY GIT STATS
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Chandrika372&show_icons=true&theme=radical&tite_color=BE2DE2&icon_color=BE2DE2)](https://github.com/anuraghazra/github-readme-stats)
